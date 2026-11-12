@@ -200,4 +200,4 @@ This repository serves as the official landing page for Active@ ISO Burner. The 
 **Get the most recent version of Active@ ISO Burner today!**
 
 ---
-**Last updated:** 2026-11-12 09:04:15 UTC
+**Last updated:** 2026-11-12 17:49:44 UTC
